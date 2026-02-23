@@ -79,17 +79,9 @@ Sou um Desenvolvedor Full-Stack focado em construir aplicações web modernas, e
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Marcos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosreiss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreiss&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img src="https://streak-stats.demolab.com/?user=marcosreiss&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=marcosreiss&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
