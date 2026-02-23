@@ -2,12 +2,27 @@
 
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=6E56CF&height=180&section=header&text=Marcos%20Vinícius%20Reis&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Next.js%20%E2%80%A2%20Java%20Spring%20%E2%80%A2%20Node.js&descAlignY=58&descSize=16)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-marcosreis.vercel.app-6E56CF?style=for-the-badge)](https://marcosreis.vercel.app/)
-[![Currículo](https://img.shields.io/badge/📄_Currículo-Ver_online-0078D4?style=for-the-badge)](https://docs.google.com/document/d/1fGuXiVGy7pdwI8aKSy60KCZhGs5hHhMbk2kln-UcB7w/edit?usp=sharing)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosvinireis/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosvinireiss@gmail.com)
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=marcosreiss&color=6E56CF&style=flat-square)
+<a href="https://marcosreis.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://docs.google.com/document/d/1fGuXiVGy7pdwI8aKSy60KCZhGs5hHhMbk2kln-UcB7w/edit?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/marcosvinireis/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:marcosvinireiss@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=marcosreiss&color=6E56CF&style=for-the-badge&label=VISUALIZAÇÕES)
+
+</div>
+
 
 </div>
 
